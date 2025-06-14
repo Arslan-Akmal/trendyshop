@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Casual Shirt",
+    "category": "Men",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1603252109612-24fa03d145c8?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWVuJTIwY2FzdWFsJTIwc2hpcnRzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 2,
+    "name": "Women's Denim Jacket",
+    "category": "Women",
+    "price": 59.99,
+    "image": "https://media.istockphoto.com/id/1284839442/photo/street-style-shoot-woman-on-pink-wall-swag-girl-wearing-jeans-jacket-grey-dress-sunglass.webp?a=1&b=1&s=612x612&w=0&k=20&c=J_xnK005WyWynsvM1jEgDtobGHhgrLHUTyVczxzVwO4="
+  },
+  {
+    "id": 3,
+    "name": "Leather Belt",
+    "category": "Accessories",
+    "price": 19.99,
+    "image": "https://media.istockphoto.com/id/523818848/photo/brown-leather-belt.jpg?b=1&s=612x612&w=0&k=20&c=uECIKqvVpqpUS3cBUQSrywh3o4xScBVXQCUFCcG0afM="
+  },
+  {
+    "id": 4,
+    "name": "Men's Black Leather Jacket",
+    "category": "Men",
+    "price": 120.00,
+    "image": "https://media.istockphoto.com/id/1603080429/photo/side-view-confident-serious-african-american-male-in-leather-jacket-and-sunglasses-standing.webp?a=1&b=1&s=612x612&w=0&k=20&c=5H-WrzDZs4VRU_MeeYcis3Xiumb9zZW9WUY0OKI-qMg="
+  },
+  {
+    "id": 5,
+    "name": "Men's Casual Sneakers",
+    "category": "Men",
+    "price": 75.50,
+    "image": "https://media.istockphoto.com/id/1432680791/photo/mens-legs-in-jeans-and-red-sneakers-student-sits-on-the-parapet-selective-focus.webp?a=1&b=1&s=612x612&w=0&k=20&c=dmhEm5RM4fIQXj4pnxV3LP40yiDVYT5FwuuZY5Qp_Ck="
+  },
+  {
+    "id": 6,
+    "name": "Men's Sports Watch",
+    "category": "Men",
+    "price": 149.99,
+    "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Women's Red Handbag",
+    "category": "Women",
+    "price": 89.99,
+    "image": "https://media.istockphoto.com/id/154417962/photo/red-luxury-leather-bag-on-white-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=emgqdaHvtgeIQZ6LtrnQwQQIDV_n_M7bWR8TOG4FL8Y="
+  },
+  {
+    "id": 8,
+    "name": "Women's Running Shoes",
+    "category": "Women",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1654626935419-d5de88269ab3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFdvbWVuJ3MlMjBSdW5uaW5nJTIwU2hvZXN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 9,
+    "name": "Women's Gold Necklace",
+    "category": "Women",
+    "price": 120.00,
+    "image": "https://images.unsplash.com/photo-1731406322316-e4aadc43a734?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V29tZW4ncyUyMEdvbGQlMjBOZWNrbGFjZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 10,
+    "name": "Classic Sunglasses",
+    "category": "Accessories",
+    "price": 49.99,
+    "image": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 39.99,
+    "image": "https://media.istockphoto.com/id/180756294/photo/wallet.webp?a=1&b=1&s=612x612&w=0&k=20&c=TLaEknZrTHzhQpX1stxfNIn6EpMpdOkkXX6JfxOpuXI="
+  },
+  {
+    "id": 12,
+    "name": "Stylish Scarf",
+    "category": "Accessories",
+    "price": 25.00,
+    "image": "https://plus.unsplash.com/premium_photo-1695603438043-1b9ab6ebe1a8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3R5bGlzaCUyMFNjYXJmfGVufDB8fDB8fHww"
+  }
+]
