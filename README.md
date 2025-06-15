@@ -53,13 +53,13 @@ https://github.com/Arslan-Akmal/trendyshop.git
 
 cd trendyshop
 
-2. Install dependencies
+2. Install dependencies:
 npm install
 
-3. Run the dev server
+3. Run the dev server:
 npm run dev
 
-4. Open in browser
+4. Open in browser:
 Visit http://localhost:5173
 
 
