@@ -4,7 +4,7 @@ A responsive e-commerce product listing page built with **React**, **Vite**, and
 
 ## 🚀 Live Demo
 
-<!-- 🌐 [View Live Site](https://your-vercel-url.vercel.app) -->
+🌐 [View Live Site](https://trendyshop-six.vercel.app)
 
 ## 📸 Preview
 
@@ -48,7 +48,9 @@ trendyshop/
 
 ### 1. Clone the repo
 
-git clone https://github.com/your-username/trendyshop.git
+git clone
+https://github.com/Arslan-Akmal/trendyshop.git
+
 cd trendyshop
 
 2. Install dependencies
